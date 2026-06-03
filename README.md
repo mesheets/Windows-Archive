@@ -6,7 +6,7 @@ Desktop Versions
 ----------------
 * [Windows 9x](https://github.com/mesheets/Windows-Archive/releases/tag/Win_9x) (Windows 95, Windows 98, Windows 98 Second Edition, Windows Millennium Edition)
 * [Windows XP](https://github.com/mesheets/Windows-Archive/releases/tag/Win_XP)
-* Windows 7
+* [Windows 7](https://github.com/mesheets/Windows-Archive/releases/tag/Windows_7)
 
 Special Editions
 ----------------
