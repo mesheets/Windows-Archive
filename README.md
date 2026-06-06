@@ -11,13 +11,13 @@ Desktop Versions
 
 Special Editions
 ----------------
-* Windows Media Center
+* [Windows Media Center](https://github.com/mesheets/Windows-Archive/releases/tag/WMC)
 
 Mobile Versions
 ---------------
 * [Windows CE/Mobile](https://github.com/mesheets/Windows-Archive/releases/tag/Win_CE-Mobile)
 * [Windows 10 Mobile](https://github.com/mesheets/Windows-Archive/releases/tag/Windows_10_Mobile)
 
-Special Mobile Development Tools
+Mobile Development Tools
 --------------------------------
 * [Visual Studio 2008](https://github.com/mesheets/Windows-Archive/releases/tag/VS2008) (for Windows CE/Mobile)
