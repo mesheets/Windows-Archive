@@ -2,6 +2,10 @@ Windows Archive
 ===============
 An archive of software for legacy Windows versions.
 
+> [!IMPORTANT]
+> This repository is typically kept in read-only (archive) mode to guard against accidental changes, modifications, or deletions;
+however, it can be updated as needed.
+
 Desktop Versions
 ----------------
 * [Windows 9x](https://github.com/mesheets/Windows-Archive/releases/tag/Win_9x) (Windows 95, Windows 98, Windows 98 Second Edition, Windows Millennium Edition)
