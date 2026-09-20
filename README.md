@@ -2,7 +2,6 @@ Windows Archive
 ===============
 An archive of software for legacy Windows versions.
 
-> [!IMPORTANT]
 > [This repository](https://github.com/mesheets/Windows-Archive) is typically kept in read-only (archive) mode to guard against accidental changes, modifications, or deletions;
 however, it can be updated as needed.
 
@@ -24,4 +23,4 @@ Mobile Versions
 
 Mobile Development Tools
 --------------------------------
-* [Visual Studio 2008](https://github.com/mesheets/Windows-Archive/releases/tag/VS2008) (for Windows CE/Mobile)
+* [Visual Studio 2008](https://github.com/mesheets/Windows-Archive/releases/tag/VS2008) (for targeting Windows CE/Mobile)
